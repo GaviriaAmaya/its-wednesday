@@ -1,2 +1,0 @@
-import SlackBots from 'slackbots';
-
